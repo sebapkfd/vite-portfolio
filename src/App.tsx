@@ -12,8 +12,12 @@ function App() {
     <div className="App text-warm bg-cold" >
       <div className="flex flex-col items-center py-4 px-[31%]">
         <section className="w-full py-2 px-8">
-          <h1 className="font-[michroma] font-bold text-[4rem] m-0">Hi, my name is Sebastian Soto</h1>
-          <h2 className="font-[michroma] font-normal text-[2rem] m-0">and I'm a software developer</h2>
+          <h1 className="font-[michroma] font-bold text-[4rem] m-0">
+            Hi, my name is Sebastian Soto
+          </h1>
+          <h2 className="font-[michroma] font-normal text-[2rem] m-0">
+            and I'm a software developer
+          </h2>
         </section>
         <section className="w-full py-2 px-8">
           <p className="font-[michroma] font-normal text-base m-0">
@@ -26,9 +30,11 @@ function App() {
           </div>
           <div>
             <strong className="font-[michroma] font-normal text-base m-0">
-              Software developer - Work on Law</strong>
+              Software developer - Work on Law
+            </strong>
             <p className="font-[michroma] font-normal text-base m-0">
-              2022 - Present</p>
+              2022 - Present
+            </p>
             <p className="font-[michroma] font-normal text-base m-0">
               Built, designed and implemented solutions and functionalities to help lawyers and law firms to connect. Working with a varied team of developers, lawyers, recruiters and journalists to understand the business and how to make a positive impact.
             </p>
